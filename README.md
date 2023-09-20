@@ -1,2 +1,2 @@
 # holaMundo2
-my second repository
+Welcome to "my second repository"
